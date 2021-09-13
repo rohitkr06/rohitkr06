@@ -44,7 +44,7 @@
 <br>
   <br>
   
-[![Rohit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohitkr06&theme=tokyonight)](https://git.io/praveenscience)
+<!-- [![Rohit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohitkr06&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitkr06&show_icons=true&theme=tokyonight) | ![Rohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitkr06&theme=tokyonight) |
 | --- | --- |
